@@ -8,7 +8,7 @@ exports.info = (message) => {
 }
   
 // Esta es una función que se guardara en este módulo como verbose
-// This type of message is used to deliver more in depth information about command processing
+//  This type of message is used to deliver more in depth information about command processing
 exports.verbose = (message) => {
     console.log(`verbose: ${message}`)
 }
