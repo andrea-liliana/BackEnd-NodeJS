@@ -6,8 +6,4 @@
 
 | Folder        | Contenido                                         |
 | :-------------| :-------------------------------------------------|
-| Objects       |Creación de un objeto vacío                        |
-|               |Creación de un objeto con propiedades              |
-|               |Creación de un objeto con propiedades diferentes   |
-|               |Creación de un objeto con métodos                  |
-|               |Creación de un objeto que reciba parámetros        |
+| Objects       | - Creación de un objeto vacío <br> - Creación de un objeto con propiedades <br> - Creación de un objeto con propiedades diferentes <br> - Creación de un objeto con métodos <br>  - Creación de un objeto que reciba parámetros |
