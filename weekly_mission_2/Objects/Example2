@@ -1,4 +1,4 @@
-console.log("Objetos");
+console.log("Objetos")
 
 // Ejemplo 2: Crear un objeto con propiedades
 const myObjetc2 = {
