@@ -1,4 +1,4 @@
-console.log("Objetos")
+console.log("Objetos");
 
 // Ejemplo 1: Crear un objeto
 const myObjetc = {} // Esto es un objeto vacío
