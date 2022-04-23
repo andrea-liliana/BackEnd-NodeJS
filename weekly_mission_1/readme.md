@@ -2,7 +2,7 @@
 
 ### JavaScript como lenguaje de programación, Node JS como entorno de ejecución & Scripting (módulos, contextos, ES6, CommonJS, NPM)
 
-**Temario:**
+**Contenido:**
 
 - Ejemplo 1: Objetos de JS
 - Ejemplo 2: Exportando funciones entre scripts con CommonJS
