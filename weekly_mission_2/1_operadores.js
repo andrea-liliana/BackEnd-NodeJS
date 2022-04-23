@@ -91,8 +91,8 @@ const scores12 = [
   { name: 'J', score: 100 },
 ]
 
-const score_less_than_80 = scores12.find((user) => user.score > 80)
-console.log("Ejemplo 12. Name score found:" + score_less_than_80.name)
+const score_more_than_80 = scores12.find((user) => user.score > 80)
+console.log("Ejemplo 12. Name score found:" + score_more_than_80.name)
 
 // Ejemplo 13: Uso de findIndex, este método regresa la posición del primer elemento que cumpla con la validación que indiques.
 const names13 = ['Explorer 1', 'Explorer 2', 'Explorer 3']
