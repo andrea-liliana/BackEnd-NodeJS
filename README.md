@@ -5,7 +5,7 @@ Repositorio para guardar las prácticas del programa de desarrolladores Launch X
 
 **Contenido:**
 
-- Weekly Mission 1:  JavaScript como lenguaje de programación, Node JS como entorno de ejecución & Scripting (módulos, contextos, ES6, CommonJS, NPM)
+- Weekly Mission 1:  JavaScript como lenguaje de programación, Node JS como entorno de ejecución & Scripting (módulos, contextos, ES6, CommonJS, NPM).
 
 - Weekly Mission 2: Callbacks & eventos asíncronos, Programación Orientada a Objetos y Pruebas de unidad & Test Driven Development.
 
