@@ -32,6 +32,22 @@ const issue = {
   }
 }
 
+const pullRequest = {
+  title : "Fix typo",
+  branchName : "Main",
+  dateCreated : "24/04/2022",
+  status : "Open",
+  author : "andrea-liliana", 
+  repositoryNameAssociated : "LaunchX",
+  getStatus: function(){
+    return `The pull request ${this.title} is ${this.status}`
+  },
+  getTitleAndAutor: function(){
+    return `The pull request ${this.title} was created by ${this.author}` 
+  }
+}
+
+
 console.log("\nGitHub Model")
 
 console.log("GitHub Repository Model")
@@ -47,5 +63,11 @@ console.log("Issue:" + issue.title)
 console.log("Associated Repository Name: " + issue.repositoryNameAssociated)
 console.log(issue.getTitleAndAuthor())
 console.log(issue.getGeneralInfo())
+
+console.log("\nGitHub Pull Request Model")
+
+console.log("Pull Request Title:" + pullRequest.title)
+console.log("Branch Name: " + pullRequest.branchName)
+console.log(pullRequest.getTitleAndAutor())
 
    
