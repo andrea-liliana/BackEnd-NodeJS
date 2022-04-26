@@ -74,3 +74,32 @@
  Trending_topic : +getNumberLikes()
  ```
 
+# Ejercicio 1.3 : Modelado de Facebook
+
+```mermaid
+ classDiagram
+ class User
+ User : +name
+ User : +basicInfo
+ User : +friends
+ User : +location
+ User : +bio
+ User : +currentCity 
+ User : +details
+ User : +getBasicInfo()
+ User : +getDetails()
+```
+
+```mermaid
+ classDiagram
+ class Post
+ Post : +user
+ Post : +date
+ Post : +privacy
+ Post : +numberComments
+ Post : +numberShares 
+ Post : +reactions
+ Post : +getPostInfo()
+```
+
+
