@@ -41,3 +41,36 @@
  PullRequest : +getStatus()
  PullRequest : +getTitleAndAutor()
  ```
+
+# Ejercicio 1.2 : Modelado de Twitter
+
+```mermaid
+ classDiagram
+ class User
+ User : +username
+ User : +name
+ User : +bio
+ User : +age
+ User : +location
+ User : +dateJoined
+ User : +topics
+ User : +numberFollowers
+ User : +numberFollowing
+ User : +getNumberFollowers()
+ User : +getNumberFollowing()
+ User : +getTopics()
+ ```
+
+ ```mermaid
+ classDiagram
+ class Trending_topic
+ Trending_topic : +topic
+ Trending_topic : +numberTweets
+ Trending_topic : +numberReplies
+ Trending_topic : +numberLikes
+ Trending_topic : +user
+ Trending_topic : +dateCreated
+ Trending_topic : +getNumberTweets()
+ Trending_topic : +getNumberLikes()
+ ```
+
