@@ -82,7 +82,6 @@
  User : +name
  User : +basicInfo
  User : +friends
- User : +location
  User : +bio
  User : +currentCity 
  User : +details
