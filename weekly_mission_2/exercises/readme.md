@@ -100,3 +100,16 @@
  Post : +reactions
  Post : +getPostInfo()
 ```
+
+# Ejercicio 2: Uso de operadores
+
+Dada una lista realizar lo siguiente:
+
+- Imprimir el nombre (propiedad name) de cada explorer en la lista.
+- Imprimir el stack de cada explorer.
+- Crear una nueva lista con las listas de stacks de cada explorer.
+- Obtener la lista de explorers que tengan en su stack "js". 
+- Buscar el primer explorer que sea de la CDMX.
+- Obtener la suma de todos los exercises_completed.
+- Obtener la validación si al menos uno de los explorers tiene la propiedad exercisesFinished en frontend como true.
+- Obtener la validación si todos los explorers tienen la propiedad isFinished del onboarding como true. 
