@@ -100,5 +100,3 @@
  Post : +reactions
  Post : +getPostInfo()
 ```
-
-
