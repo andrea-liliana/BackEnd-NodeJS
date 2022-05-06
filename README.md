@@ -9,4 +9,5 @@ Repositorio para guardar las prácticas del programa de desarrolladores Launch X
 
 - Weekly Mission 2: Callbacks & eventos asíncronos, Programación Orientada a Objetos y Pruebas de unidad & Test Driven Development.
 
+- Weekly Mission 3: Creación de proyectos de JS, Uso de NPM para inicializar proyectos y agregar dependencias, Uso de Jest como framework de pruebas de unidad, Modularización de archivos, TDD para diseño de software, Express JS como framework para crear servers, Creación de un API con Express y Pruebas de endpoints con Postman.
 
